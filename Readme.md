@@ -1,2 +1,2 @@
 # Hello Git
-## this changes from new-branch-1
+## This changes from new-branch-1
