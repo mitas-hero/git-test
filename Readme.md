@@ -1,2 +1,2 @@
 # Hello Git
-## Hello new-branch (x)
+## Hello new-branch
